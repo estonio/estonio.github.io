@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>eston.io</title>
+    <link>http://eston.io/</link>
+    <description>Recent content on eston.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ES</language>
+    
+	<atom:link href="http://eston.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lista De Lectura</title>
+      <link>http://eston.io/lista-de-lectura/</link>
+      <pubDate>Fri, 04 Sep 2020 14:26:44 +0200</pubDate>
+      
+      <guid>http://eston.io/lista-de-lectura/</guid>
+      <description> Structure and Interpretation of Computer Programs  </description>
+    </item>
+    
+  </channel>
+</rss>
